@@ -1,0 +1,13 @@
+__pycache__/
+.env
+.env.*
+.DS_Store
+*.zip
+*.parquet.gz
+.venv/
+.cache/
+*.dbn*
+data_disk/03_futures_cme/*.csv
+data_disk/04_equities_dbeq/*.csv
+data_disk/batch_jobs/
+data_disk/private_receipts/

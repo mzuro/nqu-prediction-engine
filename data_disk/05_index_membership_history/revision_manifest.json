@@ -1,0 +1,512 @@
+[
+  {
+    "quarter": "2014Q1",
+    "asof": "2014-01-01",
+    "revision_id": 588068691,
+    "revision_timestamp": "2013-12-28T13:55:09Z",
+    "count": 100,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=588068691",
+    "wikitext_sha256": "ca7e201fd05dd6793201188ab65e602a85282f1f3b18fc8df32addc131e6b6dc",
+    "status": "ok"
+  },
+  {
+    "quarter": "2014Q2",
+    "asof": "2014-04-01",
+    "revision_id": 602091133,
+    "revision_timestamp": "2014-03-31T10:23:53Z",
+    "count": 100,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=602091133",
+    "wikitext_sha256": "eb08929b79b60abeaeb9a64149a1d9717516f66937038c3a2adb2af3dd91bc33",
+    "status": "ok"
+  },
+  {
+    "quarter": "2014Q3",
+    "asof": "2014-07-01",
+    "revision_id": 613764587,
+    "revision_timestamp": "2014-06-21T02:52:21Z",
+    "count": 101,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=613764587",
+    "wikitext_sha256": "b520f75acae0db628a6d1d63378bfd9f8f46c86fe7dec196446a5127781e5e92",
+    "status": "ok"
+  },
+  {
+    "quarter": "2014Q4",
+    "asof": "2014-10-01",
+    "revision_id": 626483974,
+    "revision_timestamp": "2014-09-21T14:49:29Z",
+    "count": 102,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=626483974",
+    "wikitext_sha256": "33f5bb2caa5c5706e88638a3a28e0203af18c62ef94a819be8d86964256dd871",
+    "status": "ok"
+  },
+  {
+    "quarter": "2015Q1",
+    "asof": "2015-01-01",
+    "revision_id": 640183946,
+    "revision_timestamp": "2014-12-30T03:07:29Z",
+    "count": 107,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=640183946",
+    "wikitext_sha256": "09ad8b0c557988b6c6e5e1b813d9edbd4f6923f26894e5ef5db1ed2c0f4949f4",
+    "status": "ok"
+  },
+  {
+    "quarter": "2015Q2",
+    "asof": "2015-04-01",
+    "revision_id": 654209089,
+    "revision_timestamp": "2015-03-30T17:16:12Z",
+    "count": 107,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=654209089",
+    "wikitext_sha256": "81b5baf787605bd4946a6b4ef414ff97523bbf461ae33556203358c12de08b53",
+    "status": "ok"
+  },
+  {
+    "quarter": "2015Q3",
+    "asof": "2015-07-01",
+    "revision_id": 666399485,
+    "revision_timestamp": "2015-06-10T22:22:41Z",
+    "count": 107,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=666399485",
+    "wikitext_sha256": "830b3eb91c52511dde1d8d29b42507f23b62866eae9c946a07f5776d461805dd",
+    "status": "ok"
+  },
+  {
+    "quarter": "2015Q4",
+    "asof": "2015-10-01",
+    "revision_id": 683393038,
+    "revision_timestamp": "2015-09-30T00:35:15Z",
+    "count": 109,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=683393038",
+    "wikitext_sha256": "ec64ef04a3e426d0ab55872faaf583bf88f870820cc97bc844f7f4f80ee0e638",
+    "status": "ok"
+  },
+  {
+    "quarter": "2016Q1",
+    "asof": "2016-01-01",
+    "revision_id": 697476162,
+    "revision_timestamp": "2015-12-30T19:52:36Z",
+    "count": 106,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=697476162",
+    "wikitext_sha256": "ae3b422b28b426ce05a490ab15c6fcba958bdadcccd029e0ea96d20668a42cf5",
+    "status": "ok"
+  },
+  {
+    "quarter": "2016Q2",
+    "asof": "2016-04-01",
+    "revision_id": 712353011,
+    "revision_timestamp": "2016-03-28T16:27:11Z",
+    "count": 106,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=712353011",
+    "wikitext_sha256": "5d5c241c96f0cb3fb880d973eaa078050d3e5c76e817faeebe6d69e297f5b76d",
+    "status": "ok"
+  },
+  {
+    "quarter": "2016Q3",
+    "asof": "2016-07-01",
+    "revision_id": 724714021,
+    "revision_timestamp": "2016-06-11T00:48:01Z",
+    "count": 108,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=724714021",
+    "wikitext_sha256": "d027d268e531868a2d7e560c9b685ef05de28625d7d7491803d43ea6803555e3",
+    "status": "ok"
+  },
+  {
+    "quarter": "2016Q4",
+    "asof": "2016-10-01",
+    "revision_id": 740788637,
+    "revision_timestamp": "2016-09-23T08:49:28Z",
+    "count": 108,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=740788637",
+    "wikitext_sha256": "0957a53f8dc1ea0dc3cf2b2e2451450c4a40d9949a45411c725209e813ec7b07",
+    "status": "ok"
+  },
+  {
+    "quarter": "2017Q1",
+    "asof": "2017-01-01",
+    "revision_id": 757096239,
+    "revision_timestamp": "2016-12-28T19:39:38Z",
+    "count": 105,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=757096239",
+    "wikitext_sha256": "6c931473ecb13759cd2840109f0d2be9f5c88559c40c46ac207499ded256efc8",
+    "status": "ok"
+  },
+  {
+    "quarter": "2017Q2",
+    "asof": "2017-04-01",
+    "revision_id": 773187457,
+    "revision_timestamp": "2017-03-31T21:23:05Z",
+    "count": 105,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=773187457",
+    "wikitext_sha256": "b657fedeb7d788a6d371e8091e666f778aab00714cc8639e142f9f62d09a4fa5",
+    "status": "ok"
+  },
+  {
+    "quarter": "2017Q3",
+    "asof": "2017-07-01",
+    "revision_id": 786655416,
+    "revision_timestamp": "2017-06-20T19:21:14Z",
+    "count": 107,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=786655416",
+    "wikitext_sha256": "9cc16d46f1b75516dde59b43ba74363ba35e58aa344da3e37b6d348b7031b84e",
+    "status": "ok"
+  },
+  {
+    "quarter": "2017Q4",
+    "asof": "2017-10-01",
+    "revision_id": 803018596,
+    "revision_timestamp": "2017-09-29T23:15:06Z",
+    "count": 107,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=803018596",
+    "wikitext_sha256": "e90690c4d101e8815f4bee73c3e0c05498225f37522667936182d2ba39ec9782",
+    "status": "ok"
+  },
+  {
+    "quarter": "2018Q1",
+    "asof": "2018-01-01",
+    "revision_id": 816915712,
+    "revision_timestamp": "2017-12-24T17:09:21Z",
+    "count": 106,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=816915712",
+    "wikitext_sha256": "46a9042906c199c669cb389cc040a1506055ad771214c3264b5c5e39249647d5",
+    "status": "ok"
+  },
+  {
+    "quarter": "2018Q2",
+    "asof": "2018-04-01",
+    "revision_id": 831899585,
+    "revision_timestamp": "2018-03-22T18:51:02Z",
+    "count": 104,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=831899585",
+    "wikitext_sha256": "31723c33ce498fda5b9bce348f4b74aecd74362648d7fd44b680e2e9d853b7a6",
+    "status": "ok"
+  },
+  {
+    "quarter": "2018Q3",
+    "asof": "2018-07-01",
+    "revision_id": 847793599,
+    "revision_timestamp": "2018-06-27T20:25:31Z",
+    "count": 103,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=847793599",
+    "wikitext_sha256": "573396cc08386456c6aa679cf69c2d56bf1419674326dd73381a94dc01f01f47",
+    "status": "ok"
+  },
+  {
+    "quarter": "2018Q4",
+    "asof": "2018-10-01",
+    "revision_id": 858798412,
+    "revision_timestamp": "2018-09-09T17:39:18Z",
+    "count": 103,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=858798412",
+    "wikitext_sha256": "242202546e66d4c5210fcc9a5ef6db272c91e7423f3da733f52040432f412e59",
+    "status": "ok"
+  },
+  {
+    "quarter": "2019Q1",
+    "asof": "2019-01-01",
+    "revision_id": 875257543,
+    "revision_timestamp": "2018-12-25T00:35:29Z",
+    "count": 103,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=875257543",
+    "wikitext_sha256": "5fc30bc7f6e00d32d0097673d312ae913774e82d0b3806d67700fdccf83908b1",
+    "status": "ok"
+  },
+  {
+    "quarter": "2019Q2",
+    "asof": "2019-04-01",
+    "revision_id": 888562557,
+    "revision_timestamp": "2019-03-19T23:15:00Z",
+    "count": 105,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=888562557",
+    "wikitext_sha256": "bebc5aa002fcd1dfe041d1748cb63bdda241c84f16273f1d456d1405f47b01f9",
+    "status": "ok"
+  },
+  {
+    "quarter": "2019Q3",
+    "asof": "2019-07-01",
+    "revision_id": 899583356,
+    "revision_timestamp": "2019-05-31T00:54:33Z",
+    "count": 103,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=899583356",
+    "wikitext_sha256": "69bfbc1c9a42d77d4b6ad2ce5688d106be01f0f2cb1c8fea8b8716dbb925943e",
+    "status": "ok"
+  },
+  {
+    "quarter": "2019Q4",
+    "asof": "2019-10-01",
+    "revision_id": 917838365,
+    "revision_timestamp": "2019-09-25T18:39:18Z",
+    "count": 103,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=917838365",
+    "wikitext_sha256": "868ecc308b24efd176cbeb45d474a12eaffc1e96a594e599827468cb1e47f8d1",
+    "status": "ok"
+  },
+  {
+    "quarter": "2020Q1",
+    "asof": "2020-01-01",
+    "revision_id": 933321893,
+    "revision_timestamp": "2019-12-31T06:42:01Z",
+    "count": 103,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=933321893",
+    "wikitext_sha256": "72d0054ac4a8fc64b21707a7e8f2a1e3e94c606700551d85bbeb60bc0cc39810",
+    "status": "ok"
+  },
+  {
+    "quarter": "2020Q2",
+    "asof": "2020-04-01",
+    "revision_id": 944390238,
+    "revision_timestamp": "2020-03-07T15:31:24Z",
+    "count": 103,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=944390238",
+    "wikitext_sha256": "38b61e56a1dad6ea23edca2736e65f4d55bba325489a7f7a53ac09dbb25ca1eb",
+    "status": "ok"
+  },
+  {
+    "quarter": "2020Q3",
+    "asof": "2020-07-01",
+    "revision_id": 965043448,
+    "revision_timestamp": "2020-06-29T02:19:52Z",
+    "count": 103,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=965043448",
+    "wikitext_sha256": "9d64be0fba9037256c4ca7287eb6d2f7be01dc23f7248a87c0c9bf00d922c516",
+    "status": "ok"
+  },
+  {
+    "quarter": "2020Q4",
+    "asof": "2020-10-01",
+    "revision_id": 980704158,
+    "revision_timestamp": "2020-09-27T23:34:32Z",
+    "count": 103,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=980704158",
+    "wikitext_sha256": "fa84c41b570f65f5879530a73406f8611dbad354142bb2cdf3b55f929eec8ebf",
+    "status": "ok"
+  },
+  {
+    "quarter": "2021Q1",
+    "asof": "2021-01-01",
+    "revision_id": 997352084,
+    "revision_timestamp": "2020-12-31T03:04:32Z",
+    "count": 102,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=997352084",
+    "wikitext_sha256": "9d1683f9339994660df0b9072ed40a596fd098ab6b0d35c30aeb8fda48998495",
+    "status": "ok"
+  },
+  {
+    "quarter": "2021Q2",
+    "asof": "2021-04-01",
+    "revision_id": 1015153678,
+    "revision_timestamp": "2021-03-30T22:14:59Z",
+    "count": 102,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=1015153678",
+    "wikitext_sha256": "b9ed71ae9b08b64fb2de72b1e4b7149536301e0a388a2b7aa4eb05ff25d7ecd0",
+    "status": "ok"
+  },
+  {
+    "quarter": "2021Q3",
+    "asof": "2021-07-01",
+    "revision_id": 1031130008,
+    "revision_timestamp": "2021-06-30T00:07:12Z",
+    "count": 102,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=1031130008",
+    "wikitext_sha256": "03c55a521e9bf5c8b0c224bf2b0ce256330c4d75c5d29699ac73524cbfcf4ff7",
+    "status": "ok"
+  },
+  {
+    "quarter": "2021Q4",
+    "asof": "2021-10-01",
+    "revision_id": 1046359393,
+    "revision_timestamp": "2021-09-25T07:46:17Z",
+    "count": 102,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=1046359393",
+    "wikitext_sha256": "d613a5e8c8b89915d3e2bbe4962cac31283b275b1bc34d3e88ceee0e9b779ab1",
+    "status": "ok"
+  },
+  {
+    "quarter": "2022Q1",
+    "asof": "2022-01-01",
+    "revision_id": 1062339614,
+    "revision_timestamp": "2021-12-27T21:50:26Z",
+    "count": 101,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=1062339614",
+    "wikitext_sha256": "39f78a169388a21b5186b32ce17cb852b8fcecfad4364207da2da6d39c517f01",
+    "status": "ok"
+  },
+  {
+    "quarter": "2022Q2",
+    "asof": "2022-04-01",
+    "revision_id": 1079704774,
+    "revision_timestamp": "2022-03-28T05:47:22Z",
+    "count": 102,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=1079704774",
+    "wikitext_sha256": "76c89fa532c6fc7cb225c680d75a8f1396f89c80791f437050bc795a90c5c875",
+    "status": "ok"
+  },
+  {
+    "quarter": "2022Q3",
+    "asof": "2022-07-01",
+    "revision_id": 1094882625,
+    "revision_timestamp": "2022-06-25T03:54:48Z",
+    "count": 102,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=1094882625",
+    "wikitext_sha256": "42ff03a89ff0b41954f7e32386bdddfe3cc405e7bf8a28f768184fc4f7454589",
+    "status": "ok"
+  },
+  {
+    "quarter": "2022Q4",
+    "asof": "2022-10-01",
+    "revision_id": 1112139276,
+    "revision_timestamp": "2022-09-24T21:29:04Z",
+    "count": 102,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=1112139276",
+    "wikitext_sha256": "cde88d2092dd90a5e858b708ae6636b79bc21fac603f855ccfae3e06b9e99f0a",
+    "status": "ok"
+  },
+  {
+    "quarter": "2023Q1",
+    "asof": "2023-01-01",
+    "revision_id": 1128627537,
+    "revision_timestamp": "2022-12-21T03:37:04Z",
+    "count": 101,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=1128627537",
+    "wikitext_sha256": "3746aea30be7a6e38620abf9bf078375a044a46d0daa21b3cad6389397889284",
+    "status": "ok"
+  },
+  {
+    "quarter": "2023Q2",
+    "asof": "2023-04-01",
+    "revision_id": 1147466925,
+    "revision_timestamp": "2023-03-31T04:15:59Z",
+    "count": 101,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=1147466925",
+    "wikitext_sha256": "ba818a32668c5112d965089d87f6e413147bfdc607af4161dd7cba935c523775",
+    "status": "ok"
+  },
+  {
+    "quarter": "2023Q3",
+    "asof": "2023-07-01",
+    "revision_id": 1162420528,
+    "revision_timestamp": "2023-06-29T01:54:58Z",
+    "count": 101,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=1162420528",
+    "wikitext_sha256": "bc0d96392974b58e6764544aed87f2520c2a2596519218256a15fe5c279676fc",
+    "status": "ok"
+  },
+  {
+    "quarter": "2023Q4",
+    "asof": "2023-10-01",
+    "revision_id": 1177429481,
+    "revision_timestamp": "2023-09-27T15:16:37Z",
+    "count": 101,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=1177429481",
+    "wikitext_sha256": "3f173d5eb3ca07ab61ee53315811238da0ae12690090e030fbb6cca3468f45e5",
+    "status": "ok"
+  },
+  {
+    "quarter": "2024Q1",
+    "asof": "2024-01-01",
+    "revision_id": 1192374888,
+    "revision_timestamp": "2023-12-29T00:46:45Z",
+    "count": 101,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=1192374888",
+    "wikitext_sha256": "9606f91456e26fde0158693a67a4d9a5c50d4011bb9ec153957410740bb939ee",
+    "status": "ok"
+  },
+  {
+    "quarter": "2024Q2",
+    "asof": "2024-04-01",
+    "revision_id": 1215402327,
+    "revision_timestamp": "2024-03-24T22:48:39Z",
+    "count": 101,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=1215402327",
+    "wikitext_sha256": "840430e99d835bb7fca65aba6ee6b238ed371a51f2b09b2df7b38bebefc59a8e",
+    "status": "ok"
+  },
+  {
+    "quarter": "2024Q3",
+    "asof": "2024-07-01",
+    "revision_id": 1231547544,
+    "revision_timestamp": "2024-06-28T22:15:08Z",
+    "count": 101,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=1231547544",
+    "wikitext_sha256": "5c1fccb8428ba585239479058f7e778999b4c396e475d2c7d261b4d9e537f170",
+    "status": "ok"
+  },
+  {
+    "quarter": "2024Q4",
+    "asof": "2024-10-01",
+    "revision_id": 1246243401,
+    "revision_timestamp": "2024-09-17T19:46:48Z",
+    "count": 101,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=1246243401",
+    "wikitext_sha256": "e16d63ef2f17a5d557565eace0e75f28af2403addae010fb3b92adf516d15592",
+    "status": "ok"
+  },
+  {
+    "quarter": "2025Q1",
+    "asof": "2025-01-01",
+    "revision_id": 1265020752,
+    "revision_timestamp": "2024-12-24T17:38:38Z",
+    "count": 101,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=1265020752",
+    "wikitext_sha256": "1197c79f7cd837fd72cefee323fa8e8d9d46e43988d812ddab48e2832bc0be3a",
+    "status": "ok"
+  },
+  {
+    "quarter": "2025Q2",
+    "asof": "2025-04-01",
+    "revision_id": 1283205731,
+    "revision_timestamp": "2025-03-31T01:53:04Z",
+    "count": 101,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=1283205731",
+    "wikitext_sha256": "aebac5a2fe28243dc916120820c962ac634a2881b46ccd470291672f448d1fa5",
+    "status": "ok"
+  },
+  {
+    "quarter": "2025Q3",
+    "asof": "2025-07-01",
+    "revision_id": 1297071611,
+    "revision_timestamp": "2025-06-24T00:44:34Z",
+    "count": 101,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=1297071611",
+    "wikitext_sha256": "5c86e1a4ac8643970841d1427a475c2ead924d4d1e626bb1686a796baa5907a9",
+    "status": "ok"
+  },
+  {
+    "quarter": "2025Q4",
+    "asof": "2025-10-01",
+    "revision_id": 1313819214,
+    "revision_timestamp": "2025-09-28T08:32:24Z",
+    "count": 101,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=1313819214",
+    "wikitext_sha256": "28056f63e4daca471f00e4ed573565195c24f2598db54e88ce5289b9830b53d2",
+    "status": "ok"
+  },
+  {
+    "quarter": "2026Q1",
+    "asof": "2026-01-01",
+    "revision_id": 1330182941,
+    "revision_timestamp": "2025-12-29T23:23:14Z",
+    "count": 101,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=1330182941",
+    "wikitext_sha256": "bc34b01b2d62d6ad1ac748808d7d8fb2fbea0db55538729f67d73d7e21fcd0f3",
+    "status": "ok"
+  },
+  {
+    "quarter": "2026Q2",
+    "asof": "2026-04-01",
+    "revision_id": 1341560910,
+    "revision_timestamp": "2026-03-03T21:49:12Z",
+    "count": 101,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=1341560910",
+    "wikitext_sha256": "b6fad62358af68e7c8177870841d927f9418606fdf9cf983bf95167b51034d31",
+    "status": "ok"
+  },
+  {
+    "quarter": "2026Q3",
+    "asof": "2026-07-01",
+    "revision_id": 1361872969,
+    "revision_timestamp": "2026-06-30T15:59:09Z",
+    "count": 101,
+    "source_url": "https://en.wikipedia.org/w/index.php?oldid=1361872969",
+    "wikitext_sha256": "418243477ea25709440c892352b0f9b8066c64c56e86f115d42551868272d8d1",
+    "status": "ok"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "quarter": "2024Q1",
+    "symbol": "CDW",
+    "expected_change": "added",
+    "expected_effective_date": "2023-12-18",
+    "observed_change": "added",
+    "passed": true,
+    "source": "nasdaq_announcement",
+    "source_url": "https://www.nasdaq.com/press-release/annual-changes-to-the-nasdaq-100-indexr-2023-12-08"
+  },
+  {
+    "quarter": "2024Q1",
+    "symbol": "CCEP",
+    "expected_change": "added",
+    "expected_effective_date": "2023-12-18",
+    "observed_change": "added",
+    "passed": true,
+    "source": "nasdaq_announcement",
+    "source_url": "https://www.nasdaq.com/press-release/annual-changes-to-the-nasdaq-100-indexr-2023-12-08"
+  },
+  {
+    "quarter": "2024Q1",
+    "symbol": "DASH",
+    "expected_change": "added",
+    "expected_effective_date": "2023-12-18",
+    "observed_change": "added",
+    "passed": true,
+    "source": "nasdaq_announcement",
+    "source_url": "https://www.nasdaq.com/press-release/annual-changes-to-the-nasdaq-100-indexr-2023-12-08"
+  },
+  {
+    "quarter": "2024Q1",
+    "symbol": "MDB",
+    "expected_change": "added",
+    "expected_effective_date": "2023-12-18",
+    "observed_change": "added",
+    "passed": true,
+    "source": "nasdaq_announcement",
+    "source_url": "https://www.nasdaq.com/press-release/annual-changes-to-the-nasdaq-100-indexr-2023-12-08"
+  },
+  {
+    "quarter": "2024Q1",
+    "symbol": "ROP",
+    "expected_change": "added",
+    "expected_effective_date": "2023-12-18",
+    "observed_change": "added",
+    "passed": true,
+    "source": "nasdaq_announcement",
+    "source_url": "https://www.nasdaq.com/press-release/annual-changes-to-the-nasdaq-100-indexr-2023-12-08"
+  },
+  {
+    "quarter": "2024Q1",
+    "symbol": "SPLK",
+    "expected_change": "added",
+    "expected_effective_date": "2023-12-18",
+    "observed_change": "added",
+    "passed": true,
+    "source": "nasdaq_announcement",
+    "source_url": "https://www.nasdaq.com/press-release/annual-changes-to-the-nasdaq-100-indexr-2023-12-08"
+  },
+  {
+    "quarter": "2024Q1",
+    "symbol": "ALGN",
+    "expected_change": "removed",
+    "expected_effective_date": "2023-12-18",
+    "observed_change": "removed",
+    "passed": true,
+    "source": "nasdaq_announcement",
+    "source_url": "https://www.nasdaq.com/press-release/annual-changes-to-the-nasdaq-100-indexr-2023-12-08"
+  },
+  {
+    "quarter": "2024Q1",
+    "symbol": "EBAY",
+    "expected_change": "removed",
+    "expected_effective_date": "2023-12-18",
+    "observed_change": "removed",
+    "passed": true,
+    "source": "nasdaq_announcement",
+    "source_url": "https://www.nasdaq.com/press-release/annual-changes-to-the-nasdaq-100-indexr-2023-12-08"
+  },
+  {
+    "quarter": "2024Q1",
+    "symbol": "ENPH",
+    "expected_change": "removed",
+    "expected_effective_date": "2023-12-18",
+    "observed_change": "removed",
+    "passed": true,
+    "source": "nasdaq_announcement",
+    "source_url": "https://www.nasdaq.com/press-release/annual-changes-to-the-nasdaq-100-indexr-2023-12-08"
+  },
+  {
+    "quarter": "2024Q1",
+    "symbol": "JD",
+    "expected_change": "removed",
+    "expected_effective_date": "2023-12-18",
+    "observed_change": "removed",
+    "passed": true,
+    "source": "nasdaq_announcement",
+    "source_url": "https://www.nasdaq.com/press-release/annual-changes-to-the-nasdaq-100-indexr-2023-12-08"
+  },
+  {
+    "quarter": "2024Q1",
+    "symbol": "LCID",
+    "expected_change": "removed",
+    "expected_effective_date": "2023-12-18",
+    "observed_change": "removed",
+    "passed": true,
+    "source": "nasdaq_announcement",
+    "source_url": "https://www.nasdaq.com/press-release/annual-changes-to-the-nasdaq-100-indexr-2023-12-08"
+  },
+  {
+    "quarter": "2024Q1",
+    "symbol": "ZM",
+    "expected_change": "removed",
+    "expected_effective_date": "2023-12-18",
+    "observed_change": "removed",
+    "passed": true,
+    "source": "nasdaq_announcement",
+    "source_url": "https://www.nasdaq.com/press-release/annual-changes-to-the-nasdaq-100-indexr-2023-12-08"
+  },
+  {
+    "quarter": "2024Q1",
+    "symbol": "TTWO",
+    "expected_change": "added",
+    "expected_effective_date": "2023-12-18",
+    "observed_change": "added",
+    "passed": true,
+    "source": "nasdaq_announcement",
+    "source_url": "https://www.nasdaq.com/press-release/update:-annual-changes-to-the-nasdaq-100r-index-2023-12-12"
+  },
+  {
+    "quarter": "2024Q1",
+    "symbol": "SGEN",
+    "expected_change": "removed",
+    "expected_effective_date": "2023-12-18",
+    "observed_change": "removed",
+    "passed": true,
+    "source": "nasdaq_announcement",
+    "source_url": "https://www.nasdaq.com/press-release/update:-annual-changes-to-the-nasdaq-100r-index-2023-12-12"
+  },
+  {
+    "quarter": "2025Q1",
+    "symbol": "PLTR",
+    "expected_change": "added",
+    "expected_effective_date": "2024-12-23",
+    "observed_change": "added",
+    "passed": true,
+    "source": "nasdaq_announcement",
+    "source_url": "https://ir.nasdaq.com/news-releases/news-release-details/annual-changes-nasdaq-100-indexr-1"
+  },
+  {
+    "quarter": "2025Q1",
+    "symbol": "MSTR",
+    "expected_change": "added",
+    "expected_effective_date": "2024-12-23",
+    "observed_change": "added",
+    "passed": true,
+    "source": "nasdaq_announcement",
+    "source_url": "https://ir.nasdaq.com/news-releases/news-release-details/annual-changes-nasdaq-100-indexr-1"
+  },
+  {
+    "quarter": "2025Q1",
+    "symbol": "AXON",
+    "expected_change": "added",
+    "expected_effective_date": "2024-12-23",
+    "observed_change": "added",
+    "passed": true,
+    "source": "nasdaq_announcement",
+    "source_url": "https://ir.nasdaq.com/news-releases/news-release-details/annual-changes-nasdaq-100-indexr-1"
+  },
+  {
+    "quarter": "2025Q1",
+    "symbol": "ILMN",
+    "expected_change": "removed",
+    "expected_effective_date": "2024-12-23",
+    "observed_change": "removed",
+    "passed": true,
+    "source": "nasdaq_announcement",
+    "source_url": "https://ir.nasdaq.com/news-releases/news-release-details/annual-changes-nasdaq-100-indexr-1"
+  },
+  {
+    "quarter": "2025Q1",
+    "symbol": "SMCI",
+    "expected_change": "removed",
+    "expected_effective_date": "2024-12-23",
+    "observed_change": "removed",
+    "passed": true,
+    "source": "nasdaq_announcement",
+    "source_url": "https://ir.nasdaq.com/news-releases/news-release-details/annual-changes-nasdaq-100-indexr-1"
+  },
+  {
+    "quarter": "2025Q1",
+    "symbol": "MRNA",
+    "expected_change": "removed",
+    "expected_effective_date": "2024-12-23",
+    "observed_change": "removed",
+    "passed": true,
+    "source": "nasdaq_announcement",
+    "source_url": "https://ir.nasdaq.com/news-releases/news-release-details/annual-changes-nasdaq-100-indexr-1"
+  }
+]

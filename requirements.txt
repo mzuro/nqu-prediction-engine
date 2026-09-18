@@ -1,0 +1,5 @@
+databento==0.86.0
+pandas==3.0.6
+pyarrow==25.0.1
+mwparserfromhell==0.7.2
+exchange-calendars==4.13.2
